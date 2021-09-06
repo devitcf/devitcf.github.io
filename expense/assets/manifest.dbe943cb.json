@@ -3,7 +3,7 @@
   "short_name": "ExpMarker",
   "description": "ExpMarker",
   "lang": "en-US",
-  "start_url": "/",
+  "start_url": "/expense",
   "display": "standalone",
   "background_color": "#EE350F",
   "theme_color": "#EE350F",
