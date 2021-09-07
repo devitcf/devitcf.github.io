@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.8af0887df05fed896812c8c9fee08611.js"
+  "precache-manifest.66532657a509e83d12fd74b439b711cf.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "buddha-chatbot"});
