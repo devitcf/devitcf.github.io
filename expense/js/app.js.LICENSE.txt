@@ -1,4 +1,10 @@
 /*!
+ * @license :jsstore - V4.3.7 - 02/08/2021
+ * https://github.com/ujjwalguptaofficial/JsStore
+ * Copyright (c) 2021 @Ujjwal Gupta; Licensed MIT
+ */
+
+/*!
  * vuex v4.0.2
  * (c) 2021 Evan You
  * @license MIT
